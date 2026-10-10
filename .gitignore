@@ -1,0 +1,19 @@
+
+# CMake build directories
+build/
+out/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+
+# Frontend (later)
+node_modules/
+dist/
